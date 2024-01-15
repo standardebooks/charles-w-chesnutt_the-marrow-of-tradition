@@ -74,4 +74,14 @@ section[epub|type~="epigraph"] > *{
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
+
+p span.i1{
+	padding-left: 2em;
+	text-indent: -1em;
+}
+
+p span.i2{
+	padding-left: 3em;
+	text-indent: -1em;
+}
 /* End all poems */
