@@ -69,7 +69,6 @@
 		<dc:contributor id="artist">Enoch Wood Perry</dc:contributor>
 		<meta property="file-as" refines="#artist">Perry, Enoch Wood</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Enoch_Wood_Perry_Jr.</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>>
 		<dc:contributor id="producer-1">Jacob Zaengle</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Zaengle, Jacob</meta>
