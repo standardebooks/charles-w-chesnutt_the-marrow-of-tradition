@@ -58,8 +58,7 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
-
-/* All poems  */
+/* All poems */
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
 	text-indent: 0;
