@@ -47,9 +47,9 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2012003433</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Thirty years after the civil war and the effect of reconsiliation, the town of Wilmington, N.C. faces growing threat as white-supremists seek to stimy the new social mobility of black population, and family, friends, and neighbors come to face the calmatius fate that these actions surpressive forces sow.</dc:description>
+		<dc:description id="description">Thirty years after the Civil War and the effect of reconstruction, the town of Wilmington, N.C. faces a growing threat as white supremacists seek to stimy the new social and political mobility gained by the new enfranchised black citizens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Marrow of Tradition&lt;/i&gt;, published in 1901, was the fifth work published by author, activist, and lawyer &lt;a href="https://standardebooks.org/ebooks/charles-w-chesnutt"&gt;Charles W. Chesnutt&lt;/a&gt;. He is best known for his novels and short stories that confronted the rising issues of identity and race in the reconstructionist South following the Civil War. He would later come to work alongside authors &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. DuBois&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/booker-t-washington"&gt;Booker T. Washington&lt;/a&gt; and would serve as an active member of the NAACP, working towards challenging discriminatory laws and supporting the role of education.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Marrow of Tradition&lt;/i&gt;, published in 1901, was the fifth work published by author, activist, and lawyer &lt;a href="https://standardebooks.org/ebooks/charles-w-chesnutt"&gt;Charles W. Chesnutt&lt;/a&gt;. He is best known for his novels and short stories that confronted the rising issues of identity and race in the South during Reconstruction following the Civil War. He would later come to work alongside authors &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. DuBois&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/booker-t-washington"&gt;Booker T. Washington&lt;/a&gt; and would serve as an active member of the NAACP, working towards challenging discriminatory laws and supporting the role of education.&lt;/p&gt;
 			&lt;p&gt;Written following the events of the Wilmington Massacre of 1898 and the sensationalist news reports and novels that framed the events as a race riot incited by members of the black community, &lt;i&gt;The Marrow of Tradition&lt;/i&gt; was developed as a critical response to these harmful reports and provided a perspective that had otherwise been ignored. Developed out of the stories and accounts provided by members of the black community in Wilmington and from his own experience growing up and living in North Carolina, &lt;i&gt;The Marrow of Tradition&lt;/i&gt; provides a probable accounting of the events leading up to and surrounding the Wilmington massacre.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
@@ -63,7 +63,7 @@
 		<meta property="file-as" refines="#author">Chesnutt, Charles W.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Charles Waddell Chesnutt</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Charles_W._Chesnutt</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/classification/PS1292.C6.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79138741</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Enoch Wood Perry</dc:contributor>
 		<meta property="file-as" refines="#artist">Perry, Enoch Wood</meta>
