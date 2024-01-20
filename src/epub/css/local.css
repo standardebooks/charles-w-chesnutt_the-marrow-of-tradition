@@ -8,18 +8,10 @@
 	-epub-hyphens: none;
 }
 
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
-
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
 	margin-top: 1em;
-}
-
-[epub|type~="epigraph"] cite i{
-	font-style: italic;
 }
 /* End all epigraphs */
 
@@ -50,7 +42,6 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
 }
 /* End full-page epigraphs */
 
