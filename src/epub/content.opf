@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/charles-w-chesnutt/the-marrow-of-tradition</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-02-07T17:03:10Z</dc:date>
+		<meta property="dcterms:modified">2024-02-07T17:03:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,18 +47,17 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2012003433</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Thirty years after the Civil War and the effect of Reconstruction, the town of Wilmington, N.C. faces a growing threat as white supremacists seek to stimy the new social and political mobility gained by the new enfranchised black citizens.</dc:description>
+		<dc:description id="description">Thirty years after the Civil War and the effect of Reconstruction, the town of Wilmington, N.C. faces a growing threat as white supremacists seek to stimy the new social and political mobility gained by the newly-enfranchised black citizens.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Following the events of the Wilmington Massacre of 1898 and the sensationalist news reports and novels that framed the events as a race riot incited by members of the black community, The Marrow of Tradition was developed as a critical response to these harmful reports and provided a perspective that had otherwise been ignored. Developed out of the stories and accounts provided by members of the black community in Wilmington and from his own experience growing up and living in North Carolina, The Marrow of Tradition provides a probable accounting of the events leading up to and surrounding the Wilmington massacre.&lt;/p&gt;
-			&lt;hr/&gt;
-			&lt;p&gt;Opening on a hot and sultry night, Major Carteret sits anxiously beside his wife, Olivia, as she enters early labor. While the oppressive heat lay heavy upon him, it was scarcely less oppressive than his thoughts, which spiraled around the changing climate of his town. Following the fall of the Southern Confederacy, Major Carteret's family, one of the oldest and proudest in the state, fell to ruin, which culminated with the deaths of his father and eldest brother. Only through winning the hand of Olivia Merkell did his financial troubles change, and he founded the Morning Chronicle, which would become a vital organ of the party and an influential paper among the discontented members of his state. With the rising political power of the newly enfranchised black community, Major Carteret ruminates and wishes for a radical change in the direction of his state. Yet, with the inauspicious birth of his child, his beliefs will come to be tested.&lt;/p&gt;
-			&lt;p&gt;Across town, a young Dr. Miller returns to Wilmington to lead a newly established hospital on the old Poindexter estate. Seeking to fulfill the growing need for medical care in the black community of Wilmington, Dr. Miller established a hospital that further served as a school for nursing with future aspirations for it to become a medical school. While respected among his colleagues, the young generation of black community members, Dr. Miller faces the challenges of being a black doctor from older generations and the growing restrictions being established through Jim Crow laws across the state.&lt;/p&gt;
+			&lt;p&gt;Following the events of the Wilmington Massacre of 1898 and the sensationalist news reports and novels that framed the events as a race riot incited by members of the black community, &lt;i&gt;The Marrow of Tradition&lt;/i&gt; was written as a critical response to these harmful reports and provided a perspective that had otherwise been ignored. Developed out of the stories and accounts provided by members of the black community in Wilmington and from his own experience growing up and living in North Carolina, the novel is a probable accounting of the events leading up to and surrounding the Wilmington massacre.&lt;/p&gt;
+			&lt;p&gt;On a hot and sultry night, Major Carteret sits anxiously beside his wife, Olivia, as she enters early labor. After the fall of the Southern Confederacy, Major Carteret’s family, one of the oldest and proudest in the state, fell to ruin, culminating in the deaths of his father and eldest brother. Only through winning the hand of Olivia Merkell did his fortunes turn around, and he goes on to found the &lt;i&gt;Morning Chronicle&lt;/i&gt;, which becomes an influential paper among the discontented citizens. With the rising political power of the newly enfranchised black community, Major Carteret wishes for a radical change in direction for his state. Yet with the inauspicious birth of his child, his beliefs will come to be tested.&lt;/p&gt;
+			&lt;p&gt;Across town, a young Dr. Miller returns to Wilmington to lead a newly established hospital on the old Poindexter estate. Seeking to fulfill the growing need for medical care in the black community of Wilmington, Dr. Miller established a hospital that further served as a school for nursing with future aspirations for it to become a medical school. While respected among his colleagues, the young generation of black community members, Dr. Miller faces the challenges of being a black doctor from an older generation, and the growing restrictions being established by Jim Crow laws across the state.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11228</dc:source>
 		<dc:source>https://archive.org/details/marrowoftraditiochest</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">91137</meta>
+		<meta property="se:reading-ease.flesch">70.02</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Marrow_of_Tradition</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charles-w-chesnutt_the-marrow-of-tradition</meta>
 		<dc:creator id="author">Charles W. Chesnutt</dc:creator>
@@ -79,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
