@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charles-w-chesnutt/the-marrow-of-tradition</dc:identifier>
 		<dc:date>2024-02-07T17:03:10Z</dc:date>
@@ -49,12 +49,12 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2012003433</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">Thirty years after the Civil War and the effect of Reconstruction, the town of Wilmington, N.C. faces a growing threat as white supremacists seek to stimy the new social and political mobility gained by the newly-enfranchised black citizens.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Thirty years after the Civil War and the effect of Reconstruction, the town of Wilmington, N.C. faces a growing threat as white supremacists seek to stimy the new social and political mobility gained by the newly-enfranchised black citizens.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Following the events of the Wilmington Massacre of 1898 and the sensationalist news reports and novels that framed the events as a race riot incited by members of the black community, &lt;i&gt;The Marrow of Tradition&lt;/i&gt; was written as a critical response to these harmful reports and provided a perspective that had otherwise been ignored. Developed out of the stories and accounts provided by members of the black community in Wilmington and from his own experience growing up and living in North Carolina, the novel is a probable accounting of the events leading up to and surrounding the Wilmington massacre.&lt;/p&gt;
 			&lt;p&gt;On a hot and sultry night, Major Carteret sits anxiously beside his wife, Olivia, as she enters early labor. After the fall of the Southern Confederacy, Major Carteret’s family, one of the oldest and proudest in the state, fell to ruin, culminating in the deaths of his father and eldest brother. Only through winning the hand of Olivia Merkell did his fortunes turn around, and he goes on to found the &lt;i&gt;Morning Chronicle&lt;/i&gt;, which becomes an influential paper among the discontented citizens. With the rising political power of the newly enfranchised black community, Major Carteret wishes for a radical change in direction for his state. Yet with the inauspicious birth of his child, his beliefs will come to be tested.&lt;/p&gt;
 			&lt;p&gt;Across town, a young Dr. Miller returns to Wilmington to lead a newly established hospital on the old Poindexter estate. Seeking to fulfill the growing need for medical care in the black community of Wilmington, Dr. Miller established a hospital that further served as a school for nursing with future aspirations for it to become a medical school. While respected among his colleagues, the young generation of black community members, Dr. Miller faces the challenges of being a black doctor from an older generation, and the growing restrictions being established by Jim Crow laws across the state.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11228</dc:source>
 		<dc:source>https://archive.org/details/marrowoftraditiochest</dc:source>
