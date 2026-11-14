@@ -74,6 +74,16 @@
 		<meta property="file-as" refines="#artist">Perry, Enoch Wood</meta>
 		<link href="https://en.wikipedia.org/wiki/Enoch_Wood_Perry_Jr." refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="transcriber-1">Suzanne Shell</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Shell, Suzanne</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-2">Bill Walker</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Walker, Bill</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
+		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jacob Zaengle</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Zaengle, Jacob</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
